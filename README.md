@@ -1,14 +1,17 @@
-# Django application for safe path finder using osmnx
+# Python Web Scrapper
 
-## Modules used:
-* [osmnx](https://osmnx.readthedocs.io/en/stable/)
-* [networkx](https://networkx.org/)
-* [Django](https://www.djangoproject.com/)
-* [pickle](https://docs.python.org/3/library/pickle.html)
-* [folium](https://python-visualization.github.io/folium/)
-* [geopy](https://geopy.readthedocs.io/en/stable/)
-* [geopandas](https://geopandas.org/en/stable/)
+## Description
+This Python web scraper is designed to extract data from websites efficiently and effectively. It's built using [Python 3.x] and utilizes libraries such as BeautifulSoup, Requests, and lxml to parse HTML and XML documents.
 
+## Features
+Easy-to-use: User-friendly interface for simple operation.
+Efficient scraping: Quick and efficient data extraction from web pages.
+Customizable: Easily adaptable to scrape various websites.
+Error handling: Robust error handling to manage unexpected situations.
+Installation
+Prerequisites
+Python 3.x
+Pip (Python package installer)
 
 ## Project installation guide
 
